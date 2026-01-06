@@ -1,4 +1,8 @@
 
+# Função multiplicação
+def multiplicacao(a, b):
+    return a * b
+
 # Função soma
 def adicao(a, b):
     return a + b
@@ -6,4 +10,3 @@ def adicao(a, b):
 # fução subtração
 def subtracao(a, b):
     return a - b
-
